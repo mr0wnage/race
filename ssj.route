@@ -1,0 +1,12 @@
+race_route_add_start
+        race_add_route_node   863.0  1515.0  8.0   0  -90
+        race_add_route_node  1224.0   -57.2 40.0   0    0
+        race_add_route_node  -304.0  -542.6 40.0   0    0
+        race_add_route_node  -631.2  -531.8 40.0   0    0
+        race_add_route_node -2051.6 1456.5  40.0   0    0
+
+        race_set_route_name "SSJ: speedrun" "All 3 rooms"
+        race_set_route_timeout 60
+        race_set_route_weapon_mode raceWeaponNo
+        race_set_route_falsestart_mode raceFalseStartNo
+race_route_add_end
